@@ -1,0 +1,11 @@
+body {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+div {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: rgb(175, 2, 179);
+  position: absolute;
+}
